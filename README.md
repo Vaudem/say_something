@@ -33,7 +33,7 @@ To launch SAY SOMETHING app on your mobile phone, scan the QR code with Expo app
 
 A quick look at the top-level files and directories you'll see in SHOOT.
 
-![Image description](./archi.png)
+![Archi](./assets/archi.png)
 
 
 
