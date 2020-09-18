@@ -18,7 +18,7 @@ export default class MainScreen extends Component {
         };
     }
 
-    componentWillMount()
+    componentDidMount()
     {
         this.getQuote();
     }
